@@ -5,7 +5,8 @@ It is a user-friendly application built with Python that utilizes machine learni
 
 
 ## Introduction
-This project showcases a simple yet effective solution for classifying text messages and emails as spam or not spam. Leveraging Python, Streamlit, and scikit-learn, this classifier provides an interactive web interface for users to input text and receive real-time predictions. The core components include Streamlit for the user interface, Pickle for model serialization, scikit-learn for machine learning functionality, and NLTK for text preprocessing tasks. By utilizing a TF-IDF vectorizer and a pre-trained machine learning model, this classifier accurately predicts the nature of incoming messages. The README provides an overview of the project's components and encourages contributions for further enhancements. Feel free to explore the code, contribute, and deploy your own instance of the Spam Text Classifier!## Features
+This project showcases a simple yet effective solution for classifying text messages and emails as spam or not spam. Leveraging Python, Streamlit, and scikit-learn, this classifier provides an interactive web interface for users to input text and receive real-time predictions. The core components include Streamlit for the user interface, Pickle for model serialization, scikit-learn for machine learning functionality, and NLTK for text preprocessing tasks. By utilizing a TF-IDF vectorizer and a pre-trained machine learning model, this classifier accurately predicts the nature of incoming messages. The README provides an overview of the project's components and encourages contributions for further enhancements. Feel free to explore the code, contribute, and deploy your own instance of the Spam Text Classifier!
+## Features
 
 1. **Real-time Classification**: Instantly classify text messages or emails as spam or not spam through an intuitive web interface.
 
